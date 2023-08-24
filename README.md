@@ -2,7 +2,7 @@
 
 Image+ is a powerful web application that offers a lightning-fast image search and download experience. With its intuitive interface and cutting-edge technology, users can quickly find and download their desired images from a vast collection. Whether you're a designer, content creator, or just someone looking for high-quality images, Image+ has got you covered.
 
-![Image+ Screenshot](app-preview.png)
+![Image+ Screenshot](https://github.com/n1khilnick/imagePlus/blob/a02568be6b6820b99eee7faf523bb4eabe920a9a/app-preview-high.jpg)
 
 ## Live Demo
 
