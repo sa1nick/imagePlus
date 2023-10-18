@@ -6,7 +6,7 @@ Image+ is a powerful web application that offers a lightning-fast image search a
 
 ## Live Demo
 
-Experience Image+ in action with our [Live Demo](https://n1khilnick.github.io/imagePlus/). Explore the image search and download process before using it in your own projects!
+Experience Image+ in action with our [Live Demo](https://sa1nick.github.io/imagePlus/). Explore the image search and download process before using it in your own projects!
 
 
 ## Key Features
