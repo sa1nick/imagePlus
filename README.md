@@ -63,7 +63,7 @@ We welcome contributions to make Image+ even better. If you're interested in add
 
 ## Feedback and Support
 
-If you encounter any issues while using Image+ or have suggestions for improvement, please [open an issue](https://github.com/yourusername/image-plus/issues). We're here to help and enhance the user experience.
+If you encounter any issues while using Image+ or have suggestions for improvement, please [open an issue](https://github.com/sa1nick/image-plus/issues). We're here to help and enhance the user experience.
 
 For general inquiries or assistance, feel free to contact our support team at support@imageplusapp.com.
 
