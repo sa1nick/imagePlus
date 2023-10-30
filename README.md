@@ -36,7 +36,7 @@ Using Image+ is incredibly simple:
 
 To get started with Image+, follow these steps:
 
-1. Clone this repository: `git clone https://github.com/yourusername/image-plus.git`
+1. Clone this repository: `git clone https://github.com/sa1nick/image-plus.git`
 
 2. Navigate to the project directory: `cd image-plus`
 
